@@ -4,7 +4,7 @@ This project explains the working of smart home system, implemented through 'tin
 
 click smart home codes.ino to view project code.
 
-link to my tinkercad project: 
+link to my tinkercad project: https://www.tinkercad.com/things/6fIijaL3BRA-smart-home-by-teampie/editel
 
 Working: change the value of temperature sensor to above 35 degree to switch on motor(fan).
 
