@@ -12,4 +12,4 @@ change the distance of ultrasonic sensor below 100 cm to turn on motor to open d
 
 move the motion sensor to switch on the light. It is used in the staircase.
 
-buzzer sensor active when gas sensor above 200
+buzzer sensor active with green light when gas sensor above 200
